@@ -1,0 +1,31 @@
+
+p{
+   font-size: 28px;  
+   
+}
+h1{color: rgb(164, 21, 21); 
+}
+
+p{
+color: rgb(255, 215, 215);
+}
+ul{
+   font-size:30px ;
+}
+h3{
+  font-size: 37px; 
+
+   color: rgb(164, 21, 21)
+}
+hr{
+  background-color:rgb(164, 21, 21);
+  height: 4px;
+}
+body{
+   background-image:linear-gradient(to right,rgb(249, 69, 69),rgb(245, 124, 124)) ;
+}
+
+
+ol,h4{
+   float: right;
+}
